@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="./a_wide_cyber_tech_neon_blue_themed_developer_pro.png" width="100%">
+
+</div>
+
+<br>
+
 # 👋 Hi, I'm Adarsh Umesh Dwivedi
 
 ### 💻 BSc Computer Science Student | Full-Stack Developer | AI Enthusiast
