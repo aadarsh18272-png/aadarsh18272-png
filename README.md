@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="./a_wide_cyber_tech_neon_blue_themed_developer_pro.png" width="100%">
-
+  <img src="./Neon%20Developer%20Profile_%20Build,%20Learn,%20Grow.png" width="100%">
 </div>
 
 <br>
